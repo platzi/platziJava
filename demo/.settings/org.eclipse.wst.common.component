@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="2.0">
+	<wb-module deploy-name="demo">
+		<property name="context-root" value="demo"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.2.6.RELEASE/9fbbae4061ef8d37c8c0c999fb98fe92731f6d7c/spring-boot-starter-data-jpa-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-mongodb/1.2.6.RELEASE/dd6c61d0438641fc009c9dfa65e627b7976bb4c5/spring-boot-starter-data-mongodb-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-hateoas/1.2.6.RELEASE/bfaf6c8e9cc3c77413a88c89b31591e06a5fd9f0/spring-boot-starter-hateoas-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jersey/1.2.6.RELEASE/23ee51e3fd1183260598b5d945c8e46788b2d02a/spring-boot-starter-jersey-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.6.RELEASE/e65c0624cf2bae120a80060b7d2f1a845fdc7047/spring-boot-starter-web-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.188/a955e0f5598a7bc9df5c7b5c3ab31ffd350a035e/h2-1.4.188.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.6.RELEASE/95a83e8a81ce873505badb92a61751ac48824922/spring-boot-starter-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.2.6.RELEASE/fccc9ed17d22c29c8626726ccbe6423c2559ec1f/spring-boot-starter-aop-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.2.6.RELEASE/30e037f93fac5338a12bdefcc92c91920674c99e/spring-boot-starter-jdbc-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.11.Final/27a119fcc2b91c50e5285dd11158fac2c38c9d1b/hibernate-entitymanager-4.3.11.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/d81aff979d603edd90dcd8db2abc1f4ce6479e3e/javax.transaction-api-1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.7.RELEASE/d8923bdffe631904899875e719d8b363bc3deaea/spring-orm-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.7.3.RELEASE/6cabfad10bc17017f31e6a066a25b238f9f5657b/spring-data-jpa-1.7.3.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.7.RELEASE/7bba74bc38abf8fdaa8ad8288574edb4430ed490/spring-aspects-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.12.5/8e53a39f2a5b2755ecc394d48d18026460f5da58/mongo-java-driver-2.12.5.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.7.RELEASE/3465a5d3b24006d51482cf45abd13e347f64582a/spring-tx-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.6.3.RELEASE/94d1ce5c857fdb6288634552001c1b1e3064ec61/spring-data-mongodb-1.6.3.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.hateoas/spring-hateoas/0.16.0.RELEASE/b5f0802006170eba329089d3e82155f97eb3347/spring-hateoas-0.16.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-core/1.1.0.RELEASE/597b979a66e2a338bc988e8eccf53fad4600a07e/spring-plugin-core-1.1.0.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/3e63a25de4065697b185f523ed5e020c0db3ff0/jackson-databind-2.4.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.1.3.Final/334d46a93cf095160ce06d8382594b904933c808/hibernate-validator-5.1.3.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.7.RELEASE/2d9245006b788d7d6afeec85a43e4bfe2e46340a/spring-web-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.14/61cb53db61387437d50a718d2be8bf16e9dfbf03/jersey-server-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.14/abfda8f8bfbdfa7ec787168c99ed54006212a92b/jersey-container-servlet-core-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.14/d7be3fb54e756879623c32c19de02ec7c2e5f2b/jersey-container-servlet-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-bean-validation/2.14/5098ad7561bfa64fcdf46a8ccbcdd9ab4cef5434/jersey-bean-validation-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-spring3/2.14/a970b34ed0445438d52cee354de6e36518a9cf9/jersey-spring3-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-json-jackson/2.14/be78a825a797912d863685a07f9582e355d19f9d/jersey-media-json-jackson-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.7.RELEASE/b6b9f604cb2223251cae67fff7ca2b1d9ff1c2d8/spring-webmvc-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.6.RELEASE/888496de7156692a0eb5685cb18e0f6dd23b1ff4/spring-boot-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.6.RELEASE/bfabd0f400672b42fa5ace228341fa77a6a9ba4e/spring-boot-autoconfigure-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.6.RELEASE/705098e35b3a95c6353632077702d079e20199cf/spring-boot-starter-logging-1.2.6.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.7.RELEASE/127f005bac8ec1fbbbc5bb1595d78c6179394a46/spring-aop-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.6/a7db7ea5f7bb18a1cbd9f24edd0e666504800be/aspectjrt-1.8.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.6/7108cf65148f29a55ebf23db2c46224ea9d086dc/aspectjweaver-1.8.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.7.RELEASE/5e4c9931acaf2857efe5f1ad27e4791c0855b8b2/spring-jdbc-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.26/e49b8ef9bbedc0e87899f83119a9ddc35b4efdc5/tomcat-jdbc-8.0.26.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/64499e907f19e5e1b3fdc02f81440c1832fe3545/jboss-logging-3.1.3.GA.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging-annotations/1.2.0.Beta1/2f437f37bb265d9f8f1392823dbca12d2bec06d6/jboss-logging-annotations-1.2.0.Beta1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.11.Final/536ac0021240d97db99c7d2983067cef1a6f3af5/hibernate-core-4.3.11.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/4.0.5.Final/2a581b9edb8168e45060d8bad8b7f46712d2c52c/hibernate-commons-annotations-4.0.5.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d9a09f7732226af26bf99f19e2cffe0ae219db5b/javassist-3.18.1-GA.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.7.RELEASE/e52148e9671e2918a2172c9cf56b77bede2042ce/spring-beans-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.9.3.RELEASE/4cb967936cfb3ddaa493d632120b765d918caafd/spring-data-commons-1.9.3.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.12/adef7a9e1263298255fdb5cb107ff171d07c82f3/jcl-over-slf4j-1.7.12.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/2a1f6edb86b8c6d29f37f6a807295d4e5c279707/jackson-core-2.4.6.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/434efef28c81162b17c540e634cffa3bd9b09b4c/classmate-1.0.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.14/6aaf2126dfef0bd04550c69edca32f9e7044afee/jersey-common-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.14/a4c7d90e64d791f7d392e049ecc4fb01e23b97e6/jersey-client-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/104e9c2b5583cfcfeac0402316221648d6d8ea6b/javax.ws.rs-api-2.0.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.4.0-b06/1ce898afcbd1cb37d94d30459f8b4d25c909c450/hk2-api-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.4.0-b06/bae639241d8afaf869cd60319021683b95819427/javax.inject-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.4.0-b06/7d7ac29839ae720cb32efb3c69636011323e1dc7/hk2-locator-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2/2.4.0-b06/bdd6075092f975d78cd22c9be3322db00034ced3/hk2-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/spring-bridge/2.4.0-b06/a9b5bb46e256aa93468f2345ddbb4d6026992687/spring-bridge-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.2/14adfd8e7d9caacd97e1c0627486dd1cc70ff211/jackson-jaxrs-base-2.3.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.2/8e635e82db2437804e19e746f460392d791856cf/jackson-jaxrs-json-provider-2.3.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/8811e2e9ab9055e557598dc9aedc64fd43e0ab20/jul-to-slf4j-1.7.12.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.12/d2444c9c7c1923304c25f86c5ee83a79a8166205/log4j-over-slf4j-1.7.12.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.26/5df75626ee396da008a1969661dadc2bee82f72d/tomcat-juli-8.0.26.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/e84a2122e76f0b6503be78094ddf2108057ac15f/jandex-1.1.0.Final.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.14/3db892b8877903bf590ef053e8c97fe2f35acd76/jersey-guava-2.14.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/4ed2b2d4738aed5786cfa64cba5a332779c4c708/osgi-resource-locator-1.0.1.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.4.0-b06/beeb25c0c92e8cfaa073733485a5927b60df7deb/hk2-utils-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.4.0-b06/c202aed303326c185e27fb21d9aed29128087b7e/aopalliance-repackaged-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/config-types/2.4.0-b06/ae532f396618b2d66dcafb87ce7e98573bc8d61/config-types-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/core/2.4.0-b06/fd8a9741e0644b0b9e0bbc650ca653d187074d65/core-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-config/2.4.0-b06/2885d52c1ecd01d9464d5666aba7ae40a794330e/hk2-config-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-runlevel/2.4.0-b06/750b0edae318f36e887e56dda2abfb281e12d636/hk2-runlevel-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/class-model/2.4.0-b06/4e0e8498273a837bda50a8e9746f5bed924be8f3/class-model-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.2/228f4ed947cf3403c5f4315143b6c372c28e90f/jackson-module-jaxb-annotations-2.3.2.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.jvnet/tiger-types/1.4/9f75db7dea926f497e76eae2cea36eca74ea508/tiger-types-1.4.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/bean-validator/2.4.0-b06/31ce06c9b2fc82b13757e04adac349f8e776709e/bean-validator-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/asm-all-repackaged/2.4.0-b06/c0893f8350314ea44b9477b18323ab473423c78a/asm-all-repackaged-2.4.0-b06.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.7.RELEASE/8c6c02bcccfa23a74db59f7b7725e69e1af38f04/spring-context-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.7.RELEASE/9bc3b81d05961f042ea4a45e84d60cdc59ea51f5/spring-expression-4.1.7.RELEASE.jar">
+			<dependency-type>uses</dependency-type>
+		</dependent-module>
+	</wb-module>
+</project-modules>

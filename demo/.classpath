@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.2.6.RELEASE/b0576bc6b8effbacbf352ca438c5d9389f0d6689/spring-boot-starter-data-jpa-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.2.6.RELEASE/9fbbae4061ef8d37c8c0c999fb98fe92731f6d7c/spring-boot-starter-data-jpa-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-mongodb/1.2.6.RELEASE/94735ac1f1b1a72fc548fd2896cc12e2912fd567/spring-boot-starter-data-mongodb-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-mongodb/1.2.6.RELEASE/dd6c61d0438641fc009c9dfa65e627b7976bb4c5/spring-boot-starter-data-mongodb-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-hateoas/1.2.6.RELEASE/1a396648b9a3c32c052e20a87bcf3d73f84009ac/spring-boot-starter-hateoas-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-hateoas/1.2.6.RELEASE/bfaf6c8e9cc3c77413a88c89b31591e06a5fd9f0/spring-boot-starter-hateoas-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jersey/1.2.6.RELEASE/dfbf90259b40896aa88951df8df343bf04e09c14/spring-boot-starter-jersey-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jersey/1.2.6.RELEASE/23ee51e3fd1183260598b5d945c8e46788b2d02a/spring-boot-starter-jersey-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.6.RELEASE/96eddd1bd3f637e78c5bf5a7bf546d4f53cda89d/spring-boot-starter-web-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.6.RELEASE/e65c0624cf2bae120a80060b7d2f1a845fdc7047/spring-boot-starter-web-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.6.RELEASE/6f420a33b7b30447355787d616f95b85ee5acbb1/spring-boot-starter-tomcat-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.2.6.RELEASE/83c3287f489e2749d97e725463acc7989002e15/spring-boot-starter-tomcat-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.188/751abc5214567c11774b578f7e007f01896ec88b/h2-1.4.188-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.188/a955e0f5598a7bc9df5c7b5c3ab31ffd350a035e/h2-1.4.188.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/1.2.6.RELEASE/d052803c56d9fe9dc713517623df4c2750b19cb7/spring-boot-starter-test-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/1.2.6.RELEASE/43644897c7d755858c847f1959d73c0bd2f58925/spring-boot-starter-test-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/8269667b73d9616600359a9b0ba1b1c7d0cf7a97/mockito-core-1.10.19-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/1.10.19/e8546f5bef4e061d8dd73895b4e8f40e3fe6effe/mockito-core-1.10.19.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.6.RELEASE/ccd96cfefcb3b24e5f32fb56f335f852b7d3f1cb/spring-boot-starter-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.6.RELEASE/95a83e8a81ce873505badb92a61751ac48824922/spring-boot-starter-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.2.6.RELEASE/7ee9dba92d9f4b7fbd06fc9c7129faa4c9577d3f/spring-boot-starter-aop-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.2.6.RELEASE/fccc9ed17d22c29c8626726ccbe6423c2559ec1f/spring-boot-starter-aop-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/252caceebeb7d9339e1d67f573cfcce45b809f4c/spring-core-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.7.RELEASE/9f8e34eef228f44bda771c9dc62e9f1efa82c92d/spring-core-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.2.6.RELEASE/992b159bbba7eb167a76187c930e0f258d7988d9/spring-boot-starter-jdbc-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.2.6.RELEASE/30e037f93fac5338a12bdefcc92c91920674c99e/spring-boot-starter-jdbc-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.11.Final/31091c6eedbbb299aa1c22801404842a7bc28cf5/hibernate-entitymanager-4.3.11.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.11.Final/27a119fcc2b91c50e5285dd11158fac2c38c9d1b/hibernate-entitymanager-4.3.11.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/5d1fb3fe056fe51e6f6ed9b4ef4898a774ed69c0/javax.transaction-api-1.2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/d81aff979d603edd90dcd8db2abc1f4ce6479e3e/javax.transaction-api-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.7.RELEASE/19488f5187350c468663cbc66ab9f6d23b493c12/spring-orm-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/4.1.7.RELEASE/d8923bdffe631904899875e719d8b363bc3deaea/spring-orm-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.7.3.RELEASE/842c64e6a4b4c2c6db2338764eb13b8089512476/spring-data-jpa-1.7.3.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.7.3.RELEASE/6cabfad10bc17017f31e6a066a25b238f9f5657b/spring-data-jpa-1.7.3.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.7.RELEASE/43d64b3749e99f751073b7a81cc04cef68add938/spring-aspects-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.1.7.RELEASE/7bba74bc38abf8fdaa8ad8288574edb4430ed490/spring-aspects-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.12.5/17fc05a3487ca3e4ce05531bf52a7146723e1e40/mongo-java-driver-2.12.5-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.12.5/8e53a39f2a5b2755ecc394d48d18026460f5da58/mongo-java-driver-2.12.5.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.7.RELEASE/2a60e819e88273ec4666cb2e0081b835ce6bc3b9/spring-tx-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.1.7.RELEASE/3465a5d3b24006d51482cf45abd13e347f64582a/spring-tx-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.6.3.RELEASE/907665d79c4246e279a8ea4ad5a46b5c4653b70b/spring-data-mongodb-1.6.3.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.6.3.RELEASE/94d1ce5c857fdb6288634552001c1b1e3064ec61/spring-data-mongodb-1.6.3.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.hateoas/spring-hateoas/0.16.0.RELEASE/69127201e9b8cc6816040e1860a63c92a22ecd36/spring-hateoas-0.16.0.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.hateoas/spring-hateoas/0.16.0.RELEASE/b5f0802006170eba329089d3e82155f97eb3347/spring-hateoas-0.16.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-core/1.1.0.RELEASE/78cbd2452ab951bb68955670c0169ff3349a6532/spring-plugin-core-1.1.0.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-core/1.1.0.RELEASE/597b979a66e2a338bc988e8eccf53fad4600a07e/spring-plugin-core-1.1.0.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/634b33a958b73dd4bbac06e1de5204faacc5dfe1/jackson-databind-2.4.6-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.6/3e63a25de4065697b185f523ed5e020c0db3ff0/jackson-databind-2.4.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.1.3.Final/2bb7969a7c05ddd8474873981321cce43c688eb9/hibernate-validator-5.1.3.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.1.3.Final/334d46a93cf095160ce06d8382594b904933c808/hibernate-validator-5.1.3.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.7.RELEASE/473b4326371242e9e065ab01ca7c1698852832c/spring-web-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.7.RELEASE/2d9245006b788d7d6afeec85a43e4bfe2e46340a/spring-web-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.14/c6fcec3bd15a67fc248097c390e4f7687d0fa3c7/jersey-server-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.14/61cb53db61387437d50a718d2be8bf16e9dfbf03/jersey-server-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.14/33d5b5dcf8d564898ba96224b76ea499310e8c88/jersey-container-servlet-core-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.14/abfda8f8bfbdfa7ec787168c99ed54006212a92b/jersey-container-servlet-core-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.14/e4f44e6af7bafd50739f3c32b5038ffa855157b7/jersey-container-servlet-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.14/d7be3fb54e756879623c32c19de02ec7c2e5f2b/jersey-container-servlet-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-bean-validation/2.14/9b4f7247a687594e4abb4489bbf41d4d159497b1/jersey-bean-validation-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-bean-validation/2.14/5098ad7561bfa64fcdf46a8ccbcdd9ab4cef5434/jersey-bean-validation-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-spring3/2.14/efc38cb9e794fe8e977b403ea4d1bafd07c51e91/jersey-spring3-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-spring3/2.14/a970b34ed0445438d52cee354de6e36518a9cf9/jersey-spring3-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-json-jackson/2.14/e58249f1edc150987b121adfe6adfdd83a575f45/jersey-media-json-jackson-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-json-jackson/2.14/be78a825a797912d863685a07f9582e355d19f9d/jersey-media-json-jackson-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.7.RELEASE/e5f4d94b72f8740c04e2cce66a8a2900bbbcf567/spring-webmvc-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.7.RELEASE/b6b9f604cb2223251cae67fff7ca2b1d9ff1c2d8/spring-webmvc-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.26/43ba69e9dd8cb06d891a53f5bc7e128ead99b3ce/tomcat-embed-core-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.26/33a945c55939d39c5b3f5f5ce91e7d16bc6116e8/tomcat-embed-core-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.26/82902cf6789bf51a08348953165afea7ece88d9c/tomcat-embed-el-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.26/8b090d3dccb292b83c03b990f109bf5ceace50ca/tomcat-embed-el-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.26/24e3f89e43a5ccceb374917cf33d2ee02f248ead/tomcat-embed-logging-juli-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.26/9d55e3b1751b1ddacf3b5108b4ec9fcaee380fba/tomcat-embed-logging-juli-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.26/86571869fa747692d3cf4732bb52f95ecf5c0954/tomcat-embed-websocket-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.26/83628f454a82ee1d33daaa1d53e635405e4c12c3/tomcat-embed-websocket-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/47a7ee46628ab7133129cd7cef1e92657bc275e/hamcrest-library-1.3-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.1.7.RELEASE/16ade850c41f49d4e0503adfa7621c21a0111ebe/spring-test-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.1.7.RELEASE/5953f9c4cf1d4ddf323cd6caf60daf33f1abafc3/spring-test-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/611a57d836e2c320d59f9851d4ad587f3c8472e/objenesis-2.1-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.6.RELEASE/2b47cbffbbff4e6e3a2393250a324d6718475cf8/spring-boot-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.6.RELEASE/888496de7156692a0eb5685cb18e0f6dd23b1ff4/spring-boot-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.6.RELEASE/26503291bf42f0671305c5bd61062df3afa0a826/spring-boot-autoconfigure-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.6.RELEASE/bfabd0f400672b42fa5ace228341fa77a6a9ba4e/spring-boot-autoconfigure-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.6.RELEASE/9d08ed7d24078eda074bcb56f17bc955496b1720/spring-boot-starter-logging-1.2.6.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.2.6.RELEASE/705098e35b3a95c6353632077702d079e20199cf/spring-boot-starter-logging-1.2.6.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/4c6bcedc3efa772a5ae1c2fd01efee8e4d15edac/snakeyaml-1.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.14/c2df91929ed06a25001939929bff5120e0ea3fd4/snakeyaml-1.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.7.RELEASE/b2afe3ed87e14fad43344656b9212abe4b94f070/spring-aop-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.1.7.RELEASE/127f005bac8ec1fbbbc5bb1595d78c6179394a46/spring-aop-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.6/4cc5b7ac5c2c314fbb00c76bd2924c75f7c1ca5d/aspectjrt-1.8.6-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.6/a7db7ea5f7bb18a1cbd9f24edd0e666504800be/aspectjrt-1.8.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.6/a361b303ca34e33bfdb96cb4e93d516e854366bb/aspectjweaver-1.8.6-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.6/7108cf65148f29a55ebf23db2c46224ea9d086dc/aspectjweaver-1.8.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.7.RELEASE/3c17c8875730c7b4de791c3e357b5de5a34b4409/spring-jdbc-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.1.7.RELEASE/5e4c9931acaf2857efe5f1ad27e4791c0855b8b2/spring-jdbc-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.26/3fdd3e45f494dca42961fb7264c1f0d735ae9f5a/tomcat-jdbc-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.26/e49b8ef9bbedc0e87899f83119a9ddc35b4efdc5/tomcat-jdbc-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/4d2c4df2c1a1b2d2f9201f6d580d7d19ccf8cbdf/jboss-logging-3.1.3.GA-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.3.GA/64499e907f19e5e1b3fdc02f81440c1832fe3545/jboss-logging-3.1.3.GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging-annotations/1.2.0.Beta1/360b782ab568672ea968726ddf209e753c860e1a/jboss-logging-annotations-1.2.0.Beta1-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging-annotations/1.2.0.Beta1/2f437f37bb265d9f8f1392823dbca12d2bec06d6/jboss-logging-annotations-1.2.0.Beta1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.11.Final/404c69aa1781893987d426f4eec08020ae1f41a0/hibernate-core-4.3.11.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.11.Final/536ac0021240d97db99c7d2983067cef1a6f3af5/hibernate-core-4.3.11.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/a8e7149359255f43e0e5e3b1837948f9ed5861fb/dom4j-1.6.1-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/4.0.5.Final/98339e44338b43de01cb5ae0b169447d17ae00/hibernate-commons-annotations-4.0.5.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/4.0.5.Final/2a581b9edb8168e45060d8bad8b7f46712d2c52c/hibernate-commons-annotations-4.0.5.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d8d089f3a8845cce22d3006e02ab1403dd73b5b6/javassist-3.18.1-GA-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d9a09f7732226af26bf99f19e2cffe0ae219db5b/javassist-3.18.1-GA.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.7.RELEASE/9f2d2a6e2c8c0263431172951c08fc762f21fa32/spring-beans-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.1.7.RELEASE/e52148e9671e2918a2172c9cf56b77bede2042ce/spring-beans-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.9.3.RELEASE/bd96510a2da777229c9739c5b3e622571634e01c/spring-data-commons-1.9.3.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.9.3.RELEASE/4cb967936cfb3ddaa493d632120b765d918caafd/spring-data-commons-1.9.3.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.12/1f2ab7827a222427f8b8f20ee703fd5c5cfc055e/jcl-over-slf4j-1.7.12-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.12/adef7a9e1263298255fdb5cb107ff171d07c82f3/jcl-over-slf4j-1.7.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/7fcf3182660e0be49c7448e13f91e655b2cba9bf/jackson-annotations-2.4.0-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/342322db5e2622e7098ad5061885c3e21ac013e2/jackson-core-2.4.6-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.6/2a1f6edb86b8c6d29f37f6a807295d4e5c279707/jackson-core-2.4.6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/da0cec0cf5fa28fba22e44700d72259e0225f2e4/classmate-1.0.0-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.0.0/434efef28c81162b17c540e634cffa3bd9b09b4c/classmate-1.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.14/e5f51f02846098490eceb674d04af8e1d74f0904/jersey-common-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.14/6aaf2126dfef0bd04550c69edca32f9e7044afee/jersey-common-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.14/79ae7d900f4ed9791b1ae2c7d3a27b0774401de8/jersey-client-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.14/a4c7d90e64d791f7d392e049ecc4fb01e23b97e6/jersey-client-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/104e9c2b5583cfcfeac0402316221648d6d8ea6b/javax.ws.rs-api-2.0.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/ad18a02db08eaee697f812e333f692fc51129e4a/javax.annotation-api-1.2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.4.0-b06/7ada91a6c2e5901752462e1d3956798467a45849/hk2-api-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.4.0-b06/1ce898afcbd1cb37d94d30459f8b4d25c909c450/hk2-api-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.4.0-b06/693190b7e66acfd3ac446ab561e79a176c5487e6/javax.inject-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.4.0-b06/bae639241d8afaf869cd60319021683b95819427/javax.inject-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.4.0-b06/21203a84c599e2ef25000c0b716e03a806e72068/hk2-locator-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.4.0-b06/7d7ac29839ae720cb32efb3c69636011323e1dc7/hk2-locator-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2/2.4.0-b06/852be57e2c43f5652db2bdc2a8f0ed524be817ec/hk2-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2/2.4.0-b06/bdd6075092f975d78cd22c9be3322db00034ced3/hk2-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/spring-bridge/2.4.0-b06/804b23174316fd0da47ffbc5ace5dd1abbdbf0bd/spring-bridge-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/spring-bridge/2.4.0-b06/a9b5bb46e256aa93468f2345ddbb4d6026992687/spring-bridge-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.2/a459c5b9ffa43243961925010ea2cf103d4fd767/jackson-jaxrs-base-2.3.2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.2/14adfd8e7d9caacd97e1c0627486dd1cc70ff211/jackson-jaxrs-base-2.3.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.2/e9539eda8041917803331781d07938052aed6269/jackson-jaxrs-json-provider-2.3.2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.2/8e635e82db2437804e19e746f460392d791856cf/jackson-jaxrs-json-provider-2.3.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/9bc85314566e28525c79697d52a6bfb81d1b998a/jul-to-slf4j-1.7.12-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/8811e2e9ab9055e557598dc9aedc64fd43e0ab20/jul-to-slf4j-1.7.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.12/89ed3e254ab429d35257f6bd48cd28cebc0b2a45/log4j-over-slf4j-1.7.12-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.12/d2444c9c7c1923304c25f86c5ee83a79a8166205/log4j-over-slf4j-1.7.12.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/f4915df0360e7529c61f9e78ef3a06c19238e62e/logback-classic-1.1.3-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.26/6a2ecd42e50af8019a755e0a83b3e60e72e48aea/tomcat-juli-8.0.26-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.26/5df75626ee396da008a1969661dadc2bee82f72d/tomcat-juli-8.0.26.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/cd042b769b296fd1bc20ca5120824caa42b6c9ed/jandex-1.1.0.Final-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/e84a2122e76f0b6503be78094ddf2108057ac15f/jandex-1.1.0.Final.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/d8525661c5a0a05702fa41873d250d135031ec25/xml-apis-1.0.b2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/xml-apis/xml-apis/1.0.b2/3136ca936f64c9d68529f048c2618bd356bf85c9/xml-apis-1.0.b2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.14/6c396f990da3d436dd294bc9870ade06d082d898/jersey-guava-2.14-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.14/3db892b8877903bf590ef053e8c97fe2f35acd76/jersey-guava-2.14.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/b5685f8eaa7d83351b185a82a92abcd1b8b87fc8/osgi-resource-locator-1.0.1-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/4ed2b2d4738aed5786cfa64cba5a332779c4c708/osgi-resource-locator-1.0.1.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.4.0-b06/752e60d110052b918d70ed080039932f612fb2f0/hk2-utils-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.4.0-b06/beeb25c0c92e8cfaa073733485a5927b60df7deb/hk2-utils-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.4.0-b06/a0685666395bb7f81f24e150dd2c02e1cb303d62/aopalliance-repackaged-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.4.0-b06/c202aed303326c185e27fb21d9aed29128087b7e/aopalliance-repackaged-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/config-types/2.4.0-b06/a696543f5c06b0fb7efb60d55a23a1964aa5a325/config-types-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/config-types/2.4.0-b06/ae532f396618b2d66dcafb87ce7e98573bc8d61/config-types-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/core/2.4.0-b06/105f601ae090879ad8191942d4bbc554977d7ed/core-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/core/2.4.0-b06/fd8a9741e0644b0b9e0bbc650ca653d187074d65/core-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-config/2.4.0-b06/59f47ac616f0794750a2423fe23d8dd14e765d22/hk2-config-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-config/2.4.0-b06/2885d52c1ecd01d9464d5666aba7ae40a794330e/hk2-config-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-runlevel/2.4.0-b06/91e02da427e28c8639b50f396a43284acf55622f/hk2-runlevel-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-runlevel/2.4.0-b06/750b0edae318f36e887e56dda2abfb281e12d636/hk2-runlevel-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/class-model/2.4.0-b06/9d9796cb7ad3d40cb586a518bd263d054d2115a6/class-model-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/class-model/2.4.0-b06/4e0e8498273a837bda50a8e9746f5bed924be8f3/class-model-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.2/626373b1276a1bdffb5563156858620b935837bb/jackson-module-jaxb-annotations-2.3.2-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.2/228f4ed947cf3403c5f4315143b6c372c28e90f/jackson-module-jaxb-annotations-2.3.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/a69d9a62a693f391ad19d8ac19fa85a7a60cbc7c/logback-core-1.1.3-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jvnet/tiger-types/1.4/3ee0fb831e883a546d7e678aa4fa8ffbce8e7d53/tiger-types-1.4-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.jvnet/tiger-types/1.4/9f75db7dea926f497e76eae2cea36eca74ea508/tiger-types-1.4.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/bean-validator/2.4.0-b06/beaccc97843730bd8004721ae551bc34f28879c4/bean-validator-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/bean-validator/2.4.0-b06/31ce06c9b2fc82b13757e04adac349f8e776709e/bean-validator-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/asm-all-repackaged/2.4.0-b06/4d664c182a2268338c48992acbd63944591467df/asm-all-repackaged-2.4.0-b06-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/asm-all-repackaged/2.4.0-b06/c0893f8350314ea44b9477b18323ab473423c78a/asm-all-repackaged-2.4.0-b06.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.7.RELEASE/f3c674e1c33fd986673473fb0266a74f1fb2507e/spring-context-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.7.RELEASE/8c6c02bcccfa23a74db59f7b7725e69e1af38f04/spring-context-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.7.RELEASE/f31f68f812e3ba032b9dc5bc11a3adc0808c81b2/spring-expression-4.1.7.RELEASE-sources.jar" kind="lib" path="/Users/obernal/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.7.RELEASE/9bc3b81d05961f042ea4a45e84d60cdc59ea51f5/spring-expression-4.1.7.RELEASE.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
